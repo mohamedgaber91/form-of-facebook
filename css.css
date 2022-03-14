@@ -1,0 +1,222 @@
+@media screen and (max-width: 495px){
+
+    body{
+
+        background-color: #f1f1f154;
+    }
+    img{
+        width: 325px;
+        margin-left: 10%;
+    }
+    .parent{
+        text-align: center;
+        width: 350px;
+        border: none;
+        padding-top: 10px;
+        
+        background-color: white;
+        border-radius: 11px;
+        box-shadow: -1px 2px 8px 0px #eee4e4;
+    }    
+    h3{
+        font-size: 25px;
+    }
+    h4{
+        font-size: 17px;
+        color: #000000a8;
+        border-bottom: 1px solid #00000054;
+        padding-bottom: 20px;
+    }
+    input[type="text"] {
+        width: 131px;
+        border: 1px solid #00000066;
+        height: 34px;
+        padding: 6px;
+        text-align: end;
+        margin: 10px;
+        font-size: 15px;
+        border-radius: 5px;
+    }
+    input[type="email"] {
+        width: 299px;
+        height: 37px;
+        text-align: end;
+        font-size: 20px;
+        border: 1px solid #00000082;
+        padding-right: 10px;
+        border-radius: 5px;
+        height: 46px;
+        margin-bottom: 16px
+    }
+    input[type="password"] {
+        width: 299px;
+        height: 37px;
+        text-align: end;
+        font-size: 20px;
+        border: 1px solid #00000082;
+        padding-right: 10px;
+        border-radius: 5px;
+        height: 46px;
+        margin-bottom: 16px
+    }
+    #datalist{
+        width: 93px;
+        height: 27px;
+        margin: 5px;
+    }
+    
+    h5 {
+        font-size: 20px;
+        color: #00000082;
+    }
+    .kind1,.kind2,.kind3{
+        display: inline-block;
+        border: 1px solid;
+        margin: 10px;
+        width: 82px;
+        height: 22px;
+        border: 1px solid #00000080;
+        padding: 4px;
+    }
+    p {
+        padding: 10px;
+        font-size: 12px;
+        word-spacing: 2px;
+    }
+    button {
+        display: block;
+        margin-left: 25%;
+        height: 37px;
+        border-radius: 6px;
+        border: none;
+        width: 222px;
+        background-color: #008000a1;
+    }
+    button a{
+        text-decoration: none;
+        font-size: 20px;
+        color: white;
+    }
+    h6 {
+        font-size: 20px;
+        margin: 21px 0 38px 0;
+        padding-bottom: 40px;
+        transform: translate(10px, 12px);
+    }
+    h6 a{
+        text-decoration: none;
+        color: blue;
+    }
+}
+    
+
+@media screen and (min-width: 495px) and (max-width:2200px)
+{
+    body{
+
+        background-color: #f1f1f154;
+    }
+    img{
+        width: 325px;
+        margin-left: 40%;
+    }
+    .parent{
+        text-align: center;
+        width: 468px;
+        border: none;
+        padding-top: 10px;
+        margin-left: 35%;
+        background-color: white;
+        border-radius: 11px;
+        box-shadow: -1px 2px 8px 0px #eee4e4;
+    }    
+    h3{
+        font-size: 25px;
+    }
+    h4{
+        font-size: 17px;
+        color: #000000a8;
+        border-bottom: 1px solid #00000054;
+        padding-bottom: 20px;
+    }
+    input[type="text"] {
+        width: 154px;
+        border: 1px solid #00000066;
+        height: 34px;
+        padding: 6px;
+        text-align: end;
+        margin: 10px;
+        font-size: 15px;
+        border-radius: 5px;
+    }
+    input[type="email"] {
+        width: 345px;
+        height: 37px;
+        text-align: end;
+        font-size: 20px;
+        border: 1px solid #00000082;
+        padding-right: 10px;
+        border-radius: 5px;
+        height: 46px;
+        margin-bottom: 16px
+    }
+    input[type="password"] {
+        width: 345px;
+        height: 37px;
+        text-align: end;
+        font-size: 20px;
+        border: 1px solid #00000082;
+        padding-right: 10px;
+        border-radius: 5px;
+        height: 46px;
+        margin-bottom: 16px
+    }
+    #datalist{
+        width: 93px;
+        height: 27px;
+        margin: 5px;
+    }
+    
+    h5 {
+        font-size: 20px;
+        color: #00000082;
+    }
+    .kind1,.kind2,.kind3{
+        display: inline-block;
+        border: 1px solid;
+        margin: 10px;
+        width: 82px;
+        height: 22px;
+        border: 1px solid #00000080;
+        padding: 4px;
+    }
+    p {
+        padding: 10px;
+        font-size: 12px;
+        word-spacing: 2px;
+    }
+    button {
+        display: block;
+        margin-left: 25%;
+        height: 37px;
+        border-radius: 6px;
+        border: none;
+        width: 222px;
+        background-color: #008000a1;
+    }
+    button a{
+        text-decoration: none;
+        font-size: 20px;
+        color: white;
+    }
+    h6 {
+        font-size: 20px;
+        margin: 21px 0 38px 0;
+        padding-bottom: 40px;
+        transform: translate(-10px, 0px);
+    }
+    h6 a{
+        text-decoration: none;
+        color: blue;
+    }
+}
